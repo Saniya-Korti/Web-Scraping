@@ -1,7 +1,7 @@
-#Data Extraction and NLP
+Data Extraction and NLP
 
-##Objective
-The objective of this assignment is to extract textual data articles from the given URL and perform text analysis to compute variables that are explained below. 
+1 Objective
+The objective of this project is to extract textual data articles from the given URL and perform text analysis to compute variables that are explained below. 
 
 2	Data Extraction
 Input.xlsx
@@ -47,4 +47,4 @@ Output Variables:
 12.	SYLLABLE PER WORD
 13.	PERSONAL PRONOUNS
 14.	AVG WORD LENGTH
-Checkout output data structure spreadsheet for the format of your output, i.e. “Output Data Structure.xlsx”.
+Output data structure spreadsheet should be “Output Data Structure.xlsx”.

@@ -1,0 +1,6 @@
+This folder consists of the main .ipynb file and 
+text files which extracted from given Input.xlsx file.
+
+And the Output is saved in assign.xlsx file.
+
+To run code simply run the assignment.ipynb file.  
